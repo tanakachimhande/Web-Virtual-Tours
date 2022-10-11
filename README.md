@@ -6,4 +6,7 @@ This is a heritage based web virtaul tours platform. Due to the advent of covid-
 
 HTML,CSS and Javascript
 
+# Link
+
+heritagepresentation.netlify.app
 
